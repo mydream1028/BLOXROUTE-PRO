@@ -1,0 +1,2 @@
+# BLOXROUTE Blog Application
+This is a blog application that allows users to create, view, and search for blog posts. It consists of a backend built with Python and MySQL, and a frontend built with React components.
