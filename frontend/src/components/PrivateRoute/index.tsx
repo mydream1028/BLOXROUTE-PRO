@@ -1,4 +1,4 @@
-import { Route, Navigate, RouteProps } from "react-router-dom";
+import { Navigate } from "react-router-dom";
 import { RootState, useAppSelector } from "store";
 import { PATH } from "const";
 
